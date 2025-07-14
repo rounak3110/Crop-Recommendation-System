@@ -1,6 +1,6 @@
 # 🌾 Crop Recommendation System
 
-This is a machine learning–based web application that recommends the most suitable crop to grow based on soil and weather conditions. It was built using Python, Flask, and a trained classification model — with a clean pastel yellow-themed UI.
+This is a machine learning–based web application that recommends the most suitable crop to grow based on soil and weather conditions. It was built using Python, Flask, and a trained classification model.
 
 ---
 
@@ -11,7 +11,6 @@ This is a machine learning–based web application that recommends the most suit
   - Temperature, Humidity, Rainfall
   - Soil pH
 - 🧠 Uses a trained ML model for accurate recommendations
-- 🌼 Beautiful pastel UI with responsive design
 - ⚡ Built with Flask + HTML/CSS + Bootstrap
 
 ---
